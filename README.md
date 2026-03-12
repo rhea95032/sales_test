@@ -24,10 +24,10 @@
 ---
 ## 🖼️ 報表預覽 (Dashboard Preview)
 
-> 💡 **提示**：請將您的報表截圖上傳至 GitHub 倉庫中的 `images` 資料夾，並替換下方的圖片路徑。
 
+![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E9%A6%96%E9%A0%81.png)
 ![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%811.png)
-
+![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%812.png)
 ---
 
 ## 🚀 快速上手步驟 (Quick Start)
