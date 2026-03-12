@@ -24,9 +24,11 @@
 ---
 ## 🖼️ 報表預覽 (Dashboard Preview)
 
-![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E9%A6%96%E9%A0%81.png)
-![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%811.png)
-![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%812.png)
+| 首頁 | 銷售 | 客群 |
+| :---: | :---: | :---: |
+|![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E9%A6%96%E9%A0%81.png)|
+|![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%811.png)|
+|![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%812.png)|
 ---
 
 ## 🚀 快速上手步驟 (Quick Start)
