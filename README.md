@@ -22,6 +22,13 @@
 * 📖 **`README.md`**：專案說明文件。
 
 ---
+## 🖼️ 報表預覽 (Dashboard Preview)
+
+> 💡 **提示**：請將您的報表截圖上傳至 GitHub 倉庫中的 `images` 資料夾，並替換下方的圖片路徑。
+
+![Dashboard Mockup](https://github.com/您的帳號/您的專案名稱/blob/main/images/dashboard_screenshot.png?raw=true)
+
+---
 
 ## 🚀 快速上手步驟 (Quick Start)
 
