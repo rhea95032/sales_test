@@ -26,7 +26,7 @@
 
 > 💡 **提示**：請將您的報表截圖上傳至 GitHub 倉庫中的 `images` 資料夾，並替換下方的圖片路徑。
 
-![Dashboard Mockup](https://github.com/您的帳號/您的專案名稱/blob/main/images/dashboard_screenshot.png?raw=true)
+![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%811.png)
 
 ---
 
