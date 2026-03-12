@@ -24,9 +24,9 @@
 ---
 ## 🖼️ 報表預覽 (Dashboard Preview)
 
-|![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E9%A6%96%E9%A0%81.png)|
-|![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%811.png)|
-|![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%812.png)|
+![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E9%A6%96%E9%A0%81.png)
+![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%811.png)
+![Dashboard Mockup](https://github.com/rhea95032/sales_test/blob/main/img/%E5%85%A7%E9%A0%812.png)
 ---
 
 ## 🚀 快速上手步驟 (Quick Start)
@@ -51,4 +51,4 @@
 ---
 
 ## 🤝 個人首頁 (Contact)
-[如果您對此專案有任何建議或合作意向，歡迎透過 GitHub 與我聯繫！](https://rhea95032.github.io/)
+[個人首頁](https://rhea95032.github.io/)
